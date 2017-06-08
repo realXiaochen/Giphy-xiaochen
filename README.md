@@ -27,7 +27,8 @@
   ```
   
   ```
-  http://localhost:4200/
+ Go to  http://localhost:4200/
+ 
     ```
 
 - You will see a spinner icons when gif is loading
