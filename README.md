@@ -1,13 +1,15 @@
 # Gif searching
 
-1.Tools
+## Tools
 
 - Angular 2
+  -- component: logic
+  -- service: dependency
 - Angular-cli
 - Bootstrap
 - Font-awesome
 
-2.How to use
+## How to use
 
  ```
  npm install
@@ -30,7 +32,7 @@
 - The rate limit of the api will be triggered if a same keyword is used repeatedly.
 
 
-3.On autocomplete
+## On autocomplete
 
 - Angular material actually has this feature.
 
