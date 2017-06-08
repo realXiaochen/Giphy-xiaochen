@@ -1,28 +1,35 @@
-# Giphy
+# Giphy GIF project - xiaochen zhuo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
-## Development server
+## Tools
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Angular 2
+Angular-cli
+Bootstrap
+Font-awesome
 
-## Code scaffolding
+## Key parts
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+# Component/gif
+  main html and angular logic
 
-## Build
+# Services/gif
+  dependency
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## How to use
 
-## Running unit tests
+'npm install'
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+'ng serve'
 
-## Running end-to-end tests
+Go to "http://localhost:4200/"
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+You will see a spinner icons if gif is big, use the same keyword repeatedly will trigger rate limit of the api.
 
-## Further help
+## Thought on auto complete
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Angular material actually has this feature.
+
+For large scale application, I think 
+
+
