@@ -27,9 +27,9 @@
    ```
  
 
-- You will see a spinner icons when gif is loading
+- You will see a spinner icons when gif is loading.
 
-- The rate limit of the api will be triggered if a same keyword is used repeatedly.
+- Rate limit of the api will be triggered if a same keyword is used repeatedly.
 
 
 ## On autocomplete
