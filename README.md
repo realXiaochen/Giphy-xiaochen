@@ -16,11 +16,11 @@
 
 ## How to use
 
-'npm install'
+- ```npm install```
 
-'ng serve'
+- ```ng serve```
 
-Go to "http://localhost:4200/"
+Go to http://localhost:4200/
 
 You will see a spinner icons if gif is big, use the same keyword repeatedly will trigger rate limit of the api.
 
@@ -28,6 +28,6 @@ You will see a spinner icons if gif is big, use the same keyword repeatedly will
 
 Angular material actually has this feature.
 
-For large scale application, I think 
+For large scale application, I think buiding a hashtable from a tire will be a possible solution 
 
 
