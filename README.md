@@ -9,9 +9,8 @@
 
 ## Key parts
 
-#### Component: main html and angular logic
-
-#### Services: dependency
+    Component: Main logic
+    Services: Dependency
 
 ## How to use
 
@@ -25,7 +24,7 @@
   
   ```
   
- Go to  http://localhost:4200/
+      Go to  http://localhost:4200/
  
 
 - You will see a spinner icons when gif is loading
