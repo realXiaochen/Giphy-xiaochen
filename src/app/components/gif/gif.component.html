@@ -1,0 +1,27 @@
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+	<h1>Gif Search</h1>
+		<form (ngSubmit)="onSearch()">
+		<div class="form-group">
+		    <div class="row">
+		        <div class="col-xs-6">
+		            <label for="searchKeyWord">Please enter keyword</label>
+		            <input type="text" class="form-control" id="searchKeyWord" name="searchKeyWord" [(ngModel)]="searchKeyWord" placeholder="Key word here" />
+
+		        </div>
+		    </div>
+		</div>
+		<button type="submit">Search</button>
+	</form>
+
+<br>
+<!-- <p *ngIf="clicked">img url is {{imageUrl}}</p>
+<p *ngIf="clicked">gif url is {{gifUrl}}</p> -->
+
+<div *ngIf="clicked">
+	<span [hidden]="!display">
+<i class="fa fa-circle-o-notch fa-spin" style="font-size:24px"></i></span>
+	<img [hidden]="display" [src]="gifUrl" (load)="afterLoading()" >
+</div>
+
