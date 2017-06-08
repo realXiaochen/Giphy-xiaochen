@@ -9,9 +9,11 @@
 
 ## Key parts
 
-- Component/gif: main html and angular logic
+#### Component/gif:
+  main html and angular logic
 
-- Services/gif: dependency
+#### Services/gif
+  dependency
 
 ## How to use
 
@@ -31,6 +33,7 @@
 - You will see a spinner icons when gif is loading
 
 - The rate limit of the api will be triggered if a same keyword is used repeatedly.
+
 
 ## Thoughts on autocomplete
 
