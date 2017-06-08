@@ -23,15 +23,19 @@
   ```
   ng serve
   ```
+  
+  ```
+  http://localhost:4200/
+    ```
 
-- Go to http://localhost:4200/
+- You will see a spinner icons when gif is loading
 
-- You will see a spinner icons if gif is big or you have triggered the rate limit of the api by repeatedly using the same keyword.
+- The rate limit of the api will be triggered if a same keyword is used repeatedly.
 
-## Thought on auto complete
+## Thoughts on autocomplete
 
-Angular material actually has this feature.
+- Angular material actually has this feature.
 
-For large scale application, I think buiding a hashtable from a tire will be a possible solution 
+- For large scale application, a possible solution could be building a hashtable from a trie whose nodes are ordered dictionary/hashtable.
 
 
