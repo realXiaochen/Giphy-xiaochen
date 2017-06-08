@@ -1,6 +1,6 @@
 # Gif searching
 
-1. Tools
+1.Tools
 
 - Angular 2
 - Angular-cli
