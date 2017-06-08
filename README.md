@@ -1,19 +1,19 @@
 # Gif searching
 
-## Tools
+1.## Tools
 
 - Angular 2
 - Angular-cli
 - Bootstrap
 - Font-awesome
 
-## Key parts
+2.## Key parts
 
 1.**'/src/component/gif'**:  Main logic
   
 2.**'/src/services/gif'**:  Dependency
 
-## How to use
+3.## How to use
 
  ```
  npm install
@@ -36,7 +36,7 @@
 - The rate limit of the api will be triggered if a same keyword is used repeatedly.
 
 
-## On autocomplete
+4.## On autocomplete
 
 - Angular material actually has this feature.
 
