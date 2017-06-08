@@ -1,5 +1,4 @@
-# Gif searching - xiaochen zhuo
-
+# Gif searching
 
 ## Tools
 
@@ -25,9 +24,9 @@
   ng serve
   ```
 
-Go to http://localhost:4200/
+- Go to http://localhost:4200/
 
-You will see a spinner icons if gif is big or you have triggered the rate limit of the api by repeatedly using the same keyword.
+- You will see a spinner icons if gif is big or you have triggered the rate limit of the api by repeatedly using the same keyword.
 
 ## Thought on auto complete
 
