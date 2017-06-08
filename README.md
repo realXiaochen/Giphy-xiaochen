@@ -35,7 +35,7 @@
 - The rate limit of the api will be triggered if a same keyword is used repeatedly.
 
 
-## Thoughts on autocomplete
+## On autocomplete
 
 - Angular material actually has this feature.
 
