@@ -9,11 +9,9 @@
 
 ## Key parts
 
-#### Component/gif:
-  main html and angular logic
+#### Component: main html and angular logic
 
-#### Services/gif
-  dependency
+#### Services: dependency
 
 ## How to use
 
