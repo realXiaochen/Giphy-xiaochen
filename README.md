@@ -9,8 +9,8 @@
 
 ## Key parts
 
-    Component: Main logic
-    Services: Dependency
+    /src/component/gif:  Main logic
+    /src/services/gif:  Dependency
 
 ## How to use
 
