@@ -7,13 +7,7 @@
 - Bootstrap
 - Font-awesome
 
-2. Key parts
-
-  -'/src/component/gif':  Main logic
-  
-  -'/src/services/gif':  Dependency
-
-3.How to use
+2.How to use
 
  ```
  npm install
@@ -36,7 +30,7 @@
 - The rate limit of the api will be triggered if a same keyword is used repeatedly.
 
 
-4.On autocomplete
+3.On autocomplete
 
 - Angular material actually has this feature.
 
