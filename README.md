@@ -2,9 +2,9 @@
 
 ## Tools
 
-1.Angular 2
-  1. component: logic
-  2. service: dependency
+1. Angular 2
+    * component: logic
+    * service: dependency
 2. Angular-cli
 3. Bootstrap
 4. Font-awesome
