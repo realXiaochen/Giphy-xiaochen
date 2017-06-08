@@ -1,4 +1,4 @@
-# Giphy GIF project - xiaochen zhuo
+# Gif searching - xiaochen zhuo
 
 
 ## Tools
