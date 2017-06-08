@@ -15,6 +15,11 @@
  npm install
  
  ```
+ 
+  ```
+ cd src
+ 
+ ```
 
   ```
   ng serve
