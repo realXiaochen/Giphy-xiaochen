@@ -2,12 +2,12 @@
 
 ## Tools
 
-1. Angular 2
+- Angular 2
     * component: logic
     * service: dependency
-2. Angular-cli
-3. Bootstrap
-4. Font-awesome
+- Angular-cli
+- Bootstrap
+- Font-awesome
 
 ## How to use
 
